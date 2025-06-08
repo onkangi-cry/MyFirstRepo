@@ -1,0 +1,6 @@
+I have learned many things in this course so far from how to add my files to my repo.
+I have also learnt that we can collaborate in github.
+Fork means working on somebody else open source repo as a contributor then creating a pull request for it to be approved
+Clone is used locally from repo to my computer like this current file
+Creating branches allow us to make changes without affecting the main file.
+We can use git log to see the changes/commits we have made
