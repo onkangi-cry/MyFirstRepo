@@ -1,0 +1,7 @@
+## My Personal and Academic Goals for Next Year
+
+1. Master Git, GitHub, and software engineering principles.
+2. Build and deploy two real-world web applications.
+3. Win at least one tech innovation competition.
+4. Improve my problem-solving skills using Python and JavaScript.
+5. Grow my personal brand through community involvement.
